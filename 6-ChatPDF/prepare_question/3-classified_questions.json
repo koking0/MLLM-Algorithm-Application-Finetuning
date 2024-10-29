@@ -1,0 +1,2503 @@
+[
+    {
+        "question": "2019-2021年哪些家上市公司货币总额均位列前十？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "递延所得税资产/递延所得税负债是什么？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "递延所得税资产",
+                "递延所得税负债"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "请具体描述一下2019年迈瑞医疗社会责任情况。",
+        "classification": {
+            "company": "迈瑞医疗",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "社会责任"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "2021年货币资金最高的前3家上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币资金"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请提供诚益通2020年的净利润增长率并保留2位小数",
+        "classification": {
+            "company": "诚益通",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "净利润增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2019-2021年哪些上市公司货币总额均位列前十？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "请告诉我2019年中航工业产融控股股份有限公司的年报中，营业成本率保留两位小数为多少。",
+        "classification": {
+            "company": "中航工业产融控股股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业成本率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2019-2021年哪家上市公司货币总额均位列前十？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "请告诉我2021年上海机电股份有限公司的年报中，管理费用增长率保留两位小数为多少。",
+        "classification": {
+            "company": "上海机电股份有限公司",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "管理费用增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年-2021年货币总额均位列前十？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "其他重要的会计政策和会计估计是什么？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "其他重要的会计政策和会计估计"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2021年晋西车轴股份有限公司法定代表人与2020年相比是否都是相同的？",
+        "classification": {
+            "company": "晋西车轴股份有限公司",
+            "year": [
+                2020,
+                2021
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2019年资产总额最高的前四家上市公司是哪些家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "2020年金堆城钼业股份有限公司销售费用增长率为多少？保留两位小数。",
+        "classification": {
+            "company": "金堆城钼业股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "销售费用增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "在2020年的时候，扬州扬杰电子科技股份有限公司投资收益增长率为多少？",
+        "classification": {
+            "company": "扬州扬杰电子科技股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "投资收益增长率"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年货币总额最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "欣旺达2021年的企业研发经费占费用比例保留两位小数是多少？",
+        "classification": {
+            "company": "欣旺达",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "企业研发经费",
+                "费用比例"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "请具体描述一下2019年万顺新材重大合同及其履行情况。",
+        "classification": {
+            "company": "万顺新材",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "重大合同",
+                "履行情况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "什么是长期应收款？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "长期应收款"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "在保留两位小数的情况下，请计算出广州港股份有限公司2020年的管理费用率",
+        "classification": {
+            "company": "广州港股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "管理费用率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "根据2020年的年报数据，智谱AI的审计意见如何。",
+        "classification": {
+            "company": "智谱 AI",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "审计意见"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2020年货币总额最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年总资产最高的前5家是哪些上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "研发费用对公司财务状况和经营绩效有什么影响？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "研发费用",
+                "公司财务状况",
+                "经营绩效"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "哪家上市公司2021年货币总额最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请提供四创电子2019年的企业硕士及以上人员占职工人数比例并保留2位小数",
+        "classification": {
+            "company": "四创电子",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "硕士及以上人员",
+                "职工人数",
+                "占比"
+            ],
+            "formula": true,
+            "type": "1"
+        }
+    },
+    {
+        "question": "在保留两位小数的情况下，请计算出科达制造2021年的流动比率",
+        "classification": {
+            "company": "科达制造",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "流动比率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年哪七个上市公司的资产总金额最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年总负债最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2020年总负债最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是长期股权投资？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "长期股权投资"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "哪家上市公司2021年总负债最低？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年货币总额第2高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "上海振华重工集团股份有限公司2020年的投资收益占营业收入比率保留两位小数是多少？",
+        "classification": {
+            "company": "上海振华重工集团股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "投资收益",
+                "营业收入"
+            ],
+            "formula": true,
+            "type": "1"
+        }
+    },
+    {
+        "question": "在建工程是指什么？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "在建工程"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2019年负债总额最高的3家上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "负债总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请告诉我2020年上海海顺新型药用包装材料股份有限公司的年报中，货币资金增长率保留两位小数为多少。",
+        "classification": {
+            "company": "上海海顺新型药用包装材料股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "货币资金增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "什么是现金比率？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "现金比率"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "请提供上海中谷物流股份有限公司2020年的毛利率并保留2位小数",
+        "classification": {
+            "company": "上海中谷物流股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "毛利率"
+            ],
+            "formula": true,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年货币资金第五高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "货币资金"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请简要介绍2019年宁夏宝丰能源集团股份有限公司现金流情况。",
+        "classification": {
+            "company": "宁夏宝丰能源集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "现金流情况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "什么是财务指标？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年资产总额第7高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请简要介绍2020年上海安硕信息技术股份有限公司审计意见情况。",
+        "classification": {
+            "company": "上海安硕信息技术股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "审计意见情况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "请简要介绍2019年德艺文化创意集团股份有限公司公司员工情况。",
+        "classification": {
+            "company": "德艺文化创意集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "员工情况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "请告诉我2020年康缘药业的年报中，总资产增长率保留两位小数为多少。",
+        "classification": {
+            "company": "康缘药业",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总资产增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年哪家上市公司的总资产第十一高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "总资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年资产总金额第12高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2020年负债总额第二高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "负债总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "根据2019年的年报数据，哈空调研发投入的情况，请做简要分析。",
+        "classification": {
+            "company": "哈空调",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "研发投入"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "请告诉我2021年海尔生物的年报中，投资收益增长率保留两位小数为多少。",
+        "classification": {
+            "company": "海尔生物",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "投资收益增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2021年总负债第5高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年负债总金额第7高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "负债总金额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年其他非流动金融资产第十一高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "其他非流动金融资产",
+                "排名"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年其他流动资产第12高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "其他流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年哪家上市公司的其他非流动资产第二高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "其他非流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是资本回报率？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "资本回报率"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年流动资产第5高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2021年营业总收入第七高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业总收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是其他债权投资？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "其他债权投资"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "在2020年的时候，汇金通无形资产增长率为多少？",
+        "classification": {
+            "company": "汇金通",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "无形资产增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "概述一下重大诉讼、仲裁事项的情况，针对无锡隆盛科技股份有限公司2019年的年报。",
+        "classification": {
+            "company": "无锡隆盛科技股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "重大诉讼",
+                "仲裁事项"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年营业收入第11高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年营业外收入第12高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业外收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年营业总成本第二高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业总成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年营业成本第5高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请提供津药药业股份有限公司2021年的销售费用增长率并保留2位小数",
+        "classification": {
+            "company": "津药药业股份有限公司",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "销售费用",
+                "增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪四家上市公司，2020年总负债最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "2020年哪家上市公司的营业利润第七高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请告诉我2019年上海锦江国际酒店股份有限公司的年报中，管理费用率保留两位小数为多少。",
+        "classification": {
+            "company": "上海锦江国际酒店股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "管理费用率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "请具体描述一下2019年南微医学主要供应商的情况。",
+        "classification": {
+            "company": "南微医学",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "主要供应商"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "2020年兰州长城电工股份有限公司总负债增长率为多少？保留两位小数。",
+        "classification": {
+            "company": "兰州长城电工股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "应交税费的管理对公司的财务状况和税务合规性有何影响？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "应交税费",
+                "管理",
+                "财务状况",
+                "税务合规性"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2021年利润总额第11高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "利润总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "北京合康新能科技股份有限公司2020年的法定代表人与上年相比相同吗？",
+        "classification": {
+            "company": "北京合康新能科技股份有限公司",
+            "year": [
+                2019,
+                2020
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "哪家上市公司，2019年净利润第十二高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "净利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2020年货币总额第2高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "大禹节水集团股份有限公司2019年的资产负债比率保留两位小数是多少？",
+        "classification": {
+            "company": "大禹节水集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产负债比率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年货币资金第5高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币资金"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请简要介绍2019年北京佳讯飞鸿电气股份有限公司公司及其控股股东、实际控制人的诚信状况。",
+        "classification": {
+            "company": "北京佳讯飞鸿电气股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "诚信状况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "黑牡丹集团股份有限公司2019年年报中提及的企业研发经费占费用比例具体是什么？",
+        "classification": {
+            "company": "黑牡丹集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "企业研发经费",
+                "费用比例"
+            ],
+            "formula": true,
+            "type": "1"
+        }
+    },
+    {
+        "question": "高新兴2021年的研发费用增长率保留两位小数是多少？",
+        "classification": {
+            "company": "高新兴",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "研发费用增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪5家上市公司2021年负债总金额最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "负债总金额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年资产总额第七高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产总额",
+                "排名"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年总资产第11高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年哪家上市公司的资产总金额第十二高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019-2021年山东钢铁股份有限公司法定代表人是否都是相同的？",
+        "classification": {
+            "company": "山东钢铁股份有限公司",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2019年负债总额第2高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "负债总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2020年总负债第五高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "在2020年的财务数据中，新国都研发费用的增长率是多少？保留两位小数",
+        "classification": {
+            "company": "新国都",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "研发费用",
+                "增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2021年负债总金额第7高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "负债总金额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年其他非流动金融资产第11高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "其他非流动金融资产",
+                "排名"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "投资性房地产是什么意思？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "投资性房地产"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年其他流动资产第十二高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "其他流动资产",
+                "排名"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请简要介绍2019年江西同和药业股份有限公司研发投入情况。",
+        "classification": {
+            "company": "江西同和药业股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "研发投入"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "请提供宁波海天精工股份有限公司2020年的总资产增长率并保留2位小数",
+        "classification": {
+            "company": "宁波海天精工股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总资产增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年其他非流动资产第2高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "其他非流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年哪家上市公司的流动资产第五高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是归属于母公司所有者权益？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "归属于母公司所有者权益"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2019年其他非流动金融资产最高的前7家上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "其他非流动金融资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年苏州苏试试验集团股份有限公司管理费用增长率为多少？保留两位小数。",
+        "classification": {
+            "company": "苏州苏试试验集团股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "管理费用增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年上港集团的法定代表人与前两年是否相同？",
+        "classification": {
+            "company": "上港集团",
+            "year": [
+                2020,
+                2021
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2020年营业总收入第7高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业总收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年龙建股份的法定代表人与前两年是否相同？",
+        "classification": {
+            "company": "龙建股份",
+            "year": [
+                2020,
+                2021
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2020年百达精工总负债增长率为多少？保留两位小数。",
+        "classification": {
+            "company": "百达精工",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "根据2017年的年报数据，请简要介绍浙江核新同花顺网络信息股份有限公司的现金流情况。",
+        "classification": {
+            "company": "浙江核新同花顺网络信息股份有限公司",
+            "year": [
+                2017
+            ],
+            "keyword": [
+                "现金流情况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "什么是固定资产周转率？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "固定资产周转率"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "请提供同和药业2020年的研发费用增长率并保留2位小数",
+        "classification": {
+            "company": "同和药业",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "研发费用",
+                "增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "什么是负债？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "负债"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "哪家上市公司，2021年营业收入第十一高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年营业外收入第12高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业外收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "在保留两位小数的情况下，请计算出光明乳业2019年的企业研发经费与利润比值",
+        "classification": {
+            "company": "光明乳业",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "企业研发经费",
+                "利润"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "从2019年到2021年，瀚蓝环境股份有限公司的法定代表人是否相同？",
+        "classification": {
+            "company": "瀚蓝环境股份有限公司",
+            "year": [
+                2019,
+                2020,
+                2021
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2020年其他流动资产最高的前三家上市公司是哪些家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "其他流动资产"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "2021年其他非流动资产最高的前4家是哪些上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "其他非流动资产"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "请告诉我2021年纵横通信的年报中，流动负债增长率保留两位小数为多少。",
+        "classification": {
+            "company": "纵横通信",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "流动负债增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "在保留两位小数的情况下，请计算出天地源股份有限公司2019年的财务费用率",
+        "classification": {
+            "company": "天地源股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "财务费用率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "根据江苏博俊工业科技股份有限公司2020年的年报数据，能否简要介绍公司报告期内控股股东是否发生变更的详情。",
+        "classification": {
+            "company": "江苏博俊工业科技股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "控股股东"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "文灿集团股份有限公司2019年年报中提及的非流动负债比率具体是什么？",
+        "classification": {
+            "company": "文灿集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "非流动负债比率"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年营业总成本第2高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业总成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是每股收益？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "每股收益"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年宁波均胜电子股份有限公司法定代表人与2019年相比是否都是相同的？",
+        "classification": {
+            "company": "宁波均胜电子股份有限公司",
+            "year": [
+                2019,
+                2020
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2021年营业成本第五高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请告诉我2021年玉禾田环境发展集团股份有限公司的年报中，财务费用增长率保留两位小数为多少。",
+        "classification": {
+            "company": "玉禾田环境发展集团股份有限公司",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "财务费用增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2019年营业利润第7高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "综合收益总额与归属于母公司所有者的综合收益总额之间的关系是什么？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "综合收益总额",
+                "归属于母公司所有者的综合收益总额"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年哪家上市公司的利润总额第十一高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "利润总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年净利润第12高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "净利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年货币总额最高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请具体描述一下2019年京城股份重大资产和股权出售的情况。",
+        "classification": {
+            "company": "京城股份",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "重大资产和股权出售"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "2019年货币资金最高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "货币资金"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请提供开滦能源化工股份有限公司2019年的企业研发经费占费用比例并保留2位小数",
+        "classification": {
+            "company": "开滦能源化工股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "企业研发经费",
+                "费用比例"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "西昌电力2020年年报中提及的流动比率具体是什么？",
+        "classification": {
+            "company": "西昌电力",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "流动比率"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年资产总额最高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年哪家上市公司的总资产最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "总资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是在建工程？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "在建工程"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2019年资产总金额最高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2020年负债总额最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "负债总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请告诉我2020年山东出版传媒股份有限公司的年报中，资产负债比率保留两位小数为多少。",
+        "classification": {
+            "company": "山东出版传媒股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "资产负债比率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2021年总负债最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年负债总金额最高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "负债总金额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "持有待售资产是什么意思？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "持有待售资产"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年其他非流动金融资产最高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "其他非流动金融资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年其他流动资产最高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "其他流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年哪家上市公司的其他非流动资产最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "其他非流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请具体描述一下2021年北信源非标准审计报告的说明。",
+        "classification": {
+            "company": "北信源",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "非标准审计报告"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "根据2019年的年报数据，水发燃气重大资产和股权出售的情况，请做简要分析。",
+        "classification": {
+            "company": "水发燃气",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "重大资产和股权出售"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "什么是营业外收入？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "营业外收入"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "根据2021年的年报数据，对于百普赛斯非标准审计报告的说明，请做简要分析。",
+        "classification": {
+            "company": "百普赛斯",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "非标准审计报告"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "什么是管理费用？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "管理费用"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年流动资产最高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "流动资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2021年营业总收入最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业总收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司2019年营业收入最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年营业外收入最高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业外收入"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "从2019年到2020年，华润双鹤药业股份有限公司的法定代表人是否相同？",
+        "classification": {
+            "company": "华润双鹤药业股份有限公司",
+            "year": [
+                2019,
+                2020
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2021年营业总成本最高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "营业总成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请提供山东惠发食品股份有限公司2020年的营业利润增长率并保留2位小数",
+        "classification": {
+            "company": "山东惠发食品股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业利润增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2019年营业成本最高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "营业成本"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年哪家上市公司的营业利润最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "营业利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "概述一下公司及其控股股东、实际控制人的诚信状况，针对安徽安科生物工程集团股份有限公司2019年的年报。",
+        "classification": {
+            "company": "安徽安科生物工程集团股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "控股股东",
+                "实际控制人",
+                "诚信状况"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "2021年利润总额最高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "利润总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2019年净利润最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "净利润"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "什么是租赁负债？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "租赁负债"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "什么是利润表？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "利润表"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "负债合计与资本结构之间的关系如何影响公司的偿债能力和财务稳定性？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "负债合计",
+                "资本结构",
+                "偿债能力",
+                "财务稳定性"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2019年哪五个上市公司的流动资产最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "流动资产"
+            ],
+            "formula": false,
+            "type": "1-2"
+        }
+    },
+    {
+        "question": "浙江中国小商品城集团股份有限公司2021年年报中提及的资产负债比率具体是什么？",
+        "classification": {
+            "company": "浙江中国小商品城集团股份有限公司",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "资产负债比率"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "请具体描述一下2019年皖通高速重大关联交易的情况。",
+        "classification": {
+            "company": "皖通高速",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "重大关联交易"
+            ],
+            "formula": false,
+            "type": "3-1"
+        }
+    },
+    {
+        "question": "如何计算企业的偿债能力？",
+        "classification": {
+            "company": "",
+            "year": [],
+            "keyword": [
+                "偿债能力"
+            ],
+            "formula": false,
+            "type": "3-2"
+        }
+    },
+    {
+        "question": "2020年北京九强生物技术股份有限公司总负债增长率为多少？保留两位小数。",
+        "classification": {
+            "company": "北京九强生物技术股份有限公司",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债增长率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "哪家上市公司2020年货币总额最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "货币总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2021年货币资金最高的上市公司为？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "货币资金"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年资产总额最高的上市公司是哪家？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2020年凤竹纺织的法定代表人与上一年是否相同？",
+        "classification": {
+            "company": "凤竹纺织",
+            "year": [
+                2019,
+                2020
+            ],
+            "keyword": [
+                "法定代表人"
+            ],
+            "formula": false,
+            "type": "2-2"
+        }
+    },
+    {
+        "question": "2020年总资产最高的是哪家上市公司？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总资产"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "在保留两位小数的情况下，请计算出厦门象屿股份有限公司2019年的财务费用率",
+        "classification": {
+            "company": "厦门象屿股份有限公司",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "财务费用率"
+            ],
+            "formula": true,
+            "type": "2-1"
+        }
+    },
+    {
+        "question": "2021年哪家上市公司的资产总金额最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2021
+            ],
+            "keyword": [
+                "资产总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "2019年负债总额最高的上市公司是？",
+        "classification": {
+            "company": "",
+            "year": [
+                2019
+            ],
+            "keyword": [
+                "负债总额"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    },
+    {
+        "question": "哪家上市公司，2020年总负债最高？",
+        "classification": {
+            "company": "",
+            "year": [
+                2020
+            ],
+            "keyword": [
+                "总负债"
+            ],
+            "formula": false,
+            "type": "1"
+        }
+    }
+]

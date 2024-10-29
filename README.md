@@ -1,1 +1,1 @@
-# MLLM-Algorithm-Application-Finetuning
+# 《多模态大模型：算法、应用与微调》源码
